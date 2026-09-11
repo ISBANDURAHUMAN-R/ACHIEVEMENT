@@ -10,9 +10,9 @@ Just me completing random GitHub quests because why not? 😭
 
 ---
 
-## 🎯 Achievement Progress
+##  Achievement Progress
 
-**Progress:** `0 / 7`
+**Progress:** `2 / 7`
 
 | Achievement            | Status |
 | ---------------------- | :----: |
@@ -36,8 +36,8 @@ I'll keep track of the achievements I unlock here.
 
 ### 🔓 Unlocked
 
-QUICK DRAW
-YOLO
+##QUICK DRAW
+##YOLO
 
 ### 🔒 Remaining
 
