@@ -6,7 +6,7 @@ This repository is dedicated to tracking my journey through **GitHub's achieveme
 
 Not a project.
 Not a competition.
-Just me completing random GitHub quests because why not? 😭🔥
+Just me completing random GitHub quests because why not? 😭
 
 ---
 
