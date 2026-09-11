@@ -1,4 +1,4 @@
-# 🏆 GitHub Achievement Hunt
+#  GitHub Achievement Hunt
 
 > **Turning GitHub activity into achievements.**
 
