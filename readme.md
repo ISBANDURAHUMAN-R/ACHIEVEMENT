@@ -1,6 +1,6 @@
 #  GitHub Achievement Hunt
 
-> **Turning GitHub activity into achievements.**
+> **Turning GitHub activity into achievements**
 
 This repository is dedicated to tracking my journey through **GitHub's achievements, badges, and milestones**.
 
