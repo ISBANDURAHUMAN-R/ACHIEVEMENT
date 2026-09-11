@@ -36,8 +36,8 @@ I'll keep track of the achievements I unlock here.
 
 ### 🔓 Unlocked
 
-## QUICK DRAW
-## YOLO
+#### QUICK DRAW
+#### YOLO
 
 ### 🔒 Remaining
 
