@@ -18,8 +18,8 @@ Just me completing random GitHub quests because why not? 😭
 | ---------------------- | :----: |
 | 🦈 Pull Shark          |    ⬜   |
 | 🦈 Pull Shark ×2       |    ⬜   |
-| ⚡ Quickdraw            |    ⬜   |
-| 🧠 YOLO                |    ⬜   |
+| ⚡ Quickdraw           |    ✅   |
+| 🧠 YOLO                |    ✅   |
 | 🤝 Pair Extraordinaire |    ⬜   |
 | 🧠 Galaxy Brain        |    ⬜   |
 | 💎 Starstruck          |    ⬜   |
@@ -36,7 +36,8 @@ I'll keep track of the achievements I unlock here.
 
 ### 🔓 Unlocked
 
-Nothing yet...
+QUICK DRAW
+YOLO
 
 ### 🔒 Remaining
 
