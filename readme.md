@@ -12,15 +12,15 @@ Just me completing random GitHub quests because why not? 😭
 
 ##  Achievement Progress
 
-**Progress:** `2 / 7`
+**Progress:** `4 / 7`
 
 | Achievement            | Status |
 | ---------------------- | :----: |
-| 🦈 Pull Shark          |    ⬜   |
+| 🦈 Pull Shark          |    ✅   |
 | 🦈 Pull Shark ×2       |    ⬜   |
 | ⚡ Quickdraw           |    ✅   |
 | 🧠 YOLO                |    ✅   |
-| 🤝 Pair Extraordinaire |    ⬜   |
+| 🤝 Pair Extraordinaire |    ✅   |
 | 🧠 Galaxy Brain        |    ⬜   |
 | 💎 Starstruck          |    ⬜   |
 
@@ -38,6 +38,8 @@ I'll keep track of the achievements I unlock here.
 
 #### QUICK DRAW
 #### YOLO
+#### PULL SHARK
+#### PAIR EXTRAORDINAIRE
 
 ### 🔒 Remaining
 
