@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="GitHub Achievement Hunt Banner" width="100%">
+</p>
+
 #  GitHub Achievement Hunt
 
 > **Turning GitHub activity into achievements**
