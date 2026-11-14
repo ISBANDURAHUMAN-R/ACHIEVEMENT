@@ -8,9 +8,9 @@
 This repository tracks and documents the unlock status, contribution criteria, and milestone progress for official GitHub profile badges and achievements. It serves as an open reference and personal log for specific GitHub platform activities.
 
 ## ❖ Key Features
-- ▪ Structured status checklist tracking GitHub badges (Pull Shark, Quickdraw, YOLO, Pair Extraordinaire, Galaxy Brain, Starstruck).
-- ▫ Historical achievement log documenting verified unlock milestones.
-- ▴ Reference documentation detailing repository contribution workflows for badge triggers.
+- Structured status checklist tracking GitHub badges (Pull Shark, Quickdraw, YOLO, Pair Extraordinaire, Galaxy Brain, Starstruck).
+- Historical achievement log documenting verified unlock milestones.
+- Reference documentation detailing repository contribution workflows for badge triggers.
 
 ## ⬢ Technologies Used
 - Markdown
