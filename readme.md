@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="GitHub Achievement Hunt Banner" width="100%">
 </p>
 
-#  GitHub Achievement Hunt
+# ◈ GitHub Achievement Hunt
 
 > **Turning GitHub activity into achievements**
 
@@ -10,64 +10,62 @@ This repository is dedicated to tracking my journey through **GitHub's achieveme
 
 Not a project.
 Not a competition.
-Just me completing random GitHub quests because why not? 😭
+Just me completing random GitHub quests because why not.
 
 ---
 
-##  Achievement Progress
+## ✦ Achievement Progress
 
 **Progress:** `4 / 7`
 
-| Achievement            | Status |
-| ---------------------- | :----: |
-| 🦈 Pull Shark          |    ✅   |
-| 🦈 Pull Shark ×2       |    ⬜   |
-| ⚡ Quickdraw           |    ✅   |
-| 🧠 YOLO                |    ✅   |
-| 🤝 Pair Extraordinaire |    ✅   |
-| 🧠 Galaxy Brain        |    ⬜   |
-| 💎 Starstruck          |    ⬜   |
+| Achievement | Status |
+| :--- | :---: |
+| › Pull Shark | [✓] |
+| › Pull Shark ×2 | [ ] |
+| › Quickdraw | [✓] |
+| › YOLO | [✓] |
+| › Pair Extraordinaire | [✓] |
+| › Galaxy Brain | [ ] |
+| › Starstruck | [ ] |
 
 > More achievements will be added as I discover and unlock them.
 
 ---
 
-
-
-## 📜 Achievement Log
+## § Achievement Log
 
 I'll keep track of the achievements I unlock here.
 
-### 🔓 Unlocked
+### ✓ Unlocked
 
 #### QUICK DRAW
 #### YOLO
 #### PULL SHARK
 #### PAIR EXTRAORDINAIRE
 
-### 🔒 Remaining
+### ✕ Remaining
 
-The grind continues. 💀
-
----
-
-## 🛠️ What This Repo Is For
-
-* 🎯 Tracking GitHub achievements
-* 📈 Monitoring progress
-* 🏆 Recording milestones
-* 🧪 Experimenting with GitHub features
-* 😭 Having fun with the grind
+The grind continues.
 
 ---
 
-## 🌐 Find Me
+## ❖ What This Repo Is For
 
-* 💻 GitHub — [ISBANDURAHUMAN-R](https://github.com/ISBANDURAHUMAN-R)
+* ▪ Tracking GitHub achievements
+* ▫ Monitoring progress
+* ▴ Recording milestones
+* ▿ Experimenting with GitHub features
+* · Having fun with the grind
 
 ---
 
-## 💭 Philosophy
+## ⬡ Find Me
+
+* › GitHub — [ISBANDURAHUMAN-R](https://github.com/ISBANDURAHUMAN-R)
+
+---
+
+## ※ Philosophy
 
 > **Small achievements are still achievements.**
 
@@ -75,10 +73,10 @@ One badge at a time.
 One contribution at a time.
 One commit at a time.
 
-**The achievement arc has begun.** ⚔️🔥
+**The achievement arc has begun.**
 
 ---
 
-⭐ If you somehow find this repository interesting, feel free to star it.
+✦ If you find this repository interesting, feel free to star it.
 
-**Status:** `GRINDING...` 🟢
+**Status:** `[ACTIVE GRIND]`
