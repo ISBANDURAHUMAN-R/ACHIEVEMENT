@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    name: Documentation & Integrity Validation
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verify Documentation & Asset Integrity
+        run: |
+          test -f readme.md || exit 1
+          grep -q "GitHub Achievement Hunt" readme.md || exit 1
+          echo "Achievement tracking documentation verified successfully."
