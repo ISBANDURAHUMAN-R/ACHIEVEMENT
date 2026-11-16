@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="GitHub Achievement Hunt Banner" width="100%">
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/e84a4cc3-ff69-404c-bb25-0606593ba8d0" /
 </p>
+
 
 # ◈ GitHub Achievement Hunt // Personal Hall of Fame
 
