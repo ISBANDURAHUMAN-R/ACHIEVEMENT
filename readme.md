@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Achievements_Unlocked-5_%2F_7-brightgreen?style=for-the-badge&logo=github&labelColor=161b22" alt="Unlocked 5/7">
-  <img src="https://img.shields.io/badge/Current_Rank-Galaxy_Tier-gold?style=for-the-badge&logo=trophy&labelColor=161b22" alt="Rank">
+<img src="https://img.shields.io/badge/Collection-5%20Achievements-purple?style=for-the-badge&logo=github" alt="Achievement Collection">
   <img src="https://img.shields.io/badge/Active_Targets-2_Pursuits-blueviolet?style=for-the-badge&logo=target&labelColor=161b22" alt="Active Targets">
  
 </p>
