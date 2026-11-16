@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/Achievements_Unlocked-5_%2F_7-brightgreen?style=for-the-badge&logo=github&labelColor=161b22" alt="Unlocked 5/7">
   <img src="https://img.shields.io/badge/Current_Rank-Galaxy_Tier-gold?style=for-the-badge&logo=trophy&labelColor=161b22" alt="Rank">
   <img src="https://img.shields.io/badge/Active_Targets-2_Pursuits-blueviolet?style=for-the-badge&logo=target&labelColor=161b22" alt="Active Targets">
-  <a href="https://github.com/ISBANDURAHUMAN-R/ACHIEVEMENT/actions/workflows/ci.yml">
-    <img src="https://github.com/ISBANDURAHUMAN-R/ACHIEVEMENT/actions/workflows/ci.yml/badge.svg" alt="CI Status">
-  </a>
+ 
 </p>
 
 ---
@@ -60,21 +58,6 @@ Every badge documented here is tied to real, verifiable pull requests, issues, d
     </td>
     <td align="center" width="25%">
       <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="96" style="opacity: 0.65; filter: grayscale(40%);" alt="Starstruck Badge"><br>
-      <b>Starstruck</b><br>
-      <code>IN PURSUIT [4/16 Stars]</code><br>
-      <sub>Target 1</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/assets/public-sponsor-default-8406173b2a26.png" width="96" style="opacity: 0.45; filter: grayscale(80%);" alt="Public Sponsor Badge"><br>
-      <b>Public Sponsor</b><br>
-      <code>FUTURE TARGET</code><br>
-      <sub>Target 2</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/More_To_Come-TBD-grey?style=for-the-badge" width="80" alt="Placeholder"><br>
-      <b>Heart On Your Sleeve</b><br>
-      <code>LOCKED</code><br>
-      <sub>Future Milestones</sub>
     </td>
   </tr>
 </table>
