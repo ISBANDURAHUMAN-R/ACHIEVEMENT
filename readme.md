@@ -1,6 +1,7 @@
 <p align="center">
-<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/887536e1-579d-41ff-8806-7fc23f610882" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/d43dbc6f-617b-4f10-a85a-c31942686e27" />
 </p>
+
 
 
 # ◈ GitHub Achievement Hunt // Personal Hall of Fame
