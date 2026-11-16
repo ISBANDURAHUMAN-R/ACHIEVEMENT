@@ -105,7 +105,7 @@ Every badge documented here is tied to real, verifiable pull requests, issues, d
 
 ---
 
-## § Repository Architecture & Integrity
+## ❃ Repository Architecture & Integrity
 * **Documentation Engine**: GitHub Flavored Markdown (GFM) with rich badge presentation.
 * **Integrity Validation**: Automated GitHub Actions CI workflow verifying README presence and key milestones on every push.
 * **License**: Standard MIT License preserved in `LICENSE`.
