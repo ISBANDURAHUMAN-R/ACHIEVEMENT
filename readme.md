@@ -31,7 +31,8 @@ graph TD
         Audit --> Checklist[Structured Status Checklist]
     end
 ```
-
+git clone https://github.com/ISBANDURAHUMAN-R/ACHIEVEMENT.git
+cd ACHIEVEMENT
 ## ⬢ Technologies Used
 - Markdown
 - Git
