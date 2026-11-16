@@ -56,9 +56,7 @@ Every badge documented here is tied to real, verifiable pull requests, issues, d
       <code>UNLOCKED ✦</code><br>
       <sub>Nov 16, 2026</sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="96" style="opacity: 0.65; filter: grayscale(40%);" alt="Starstruck Badge"><br>
-    </td>
+   
   </tr>
 </table>
 
